@@ -17,37 +17,21 @@ Boğaziçi University, Aug 2018
 ### Work Experience
 
 ```
-Invent Analytics - Full Time
+Invent Analytics - Full Time                                  Jan 2019 - Present
+Software Developer
 
-Timeline:
-Software Developer, Scrum Master, Tech Lead                   Oct 2021 - Present
-Software Developer                                            Jan 2021 - Oct 2021
-Jr. Software Developer                                        Jan 2019 - Jan 2021
+* Scrum master and the tech lead of the team, since Oct 2021.
+* Developing and maintaining pricing and inventory optimization algorithms of fast-fashion retail products.
+* Developing and maintaining big data ETL pipelines using Apache Spark.
+* Optimization of the relational database queries/procedures and Spark applications.
+* Developing, maintaining, and delivering internal python libraries to internal development teams
+* Developing and maintaining RestAPI services and web applications.
+* Automating test processes; unit tests, integration tests, and end-to-end tests.
+* Participating in the deployment of containerized applications and building CI/CD pipelines using Jenkins and Docker.
+* Orchestrating internal business pipelines by using Apache Airflow
+* Integrating new and existing applications with the cloud services like AWS, Azure, Solvers, etc.
+* Monitoring applications, performance metrics, exceptions, resource usages.
 
-Responsibility:
-* Developing and maintaining;
-  * Markdown optimization algorithm for fast-fashion retail 
-  * Inter-store inventory transfer optimization algorithm for fast-fashion retail
-  * Internal python libraries
-  * ETL processes of customer's big data using spark
-  * RestAPI services
-  * Internal web applications
-  * Automated test processes; unit tests, integration tests and end-to-end tests
-  * CI/CD pipelines via Jenkins, Docker etc.
-  * Orchestration of internal pipelines via Airflow
-* Participating in;
-  * Full development life cycle of multiple products
-  * Design, planning, development and test processes of new features.
-  * Debugging, bug fixing on multiple large software projects
-  * Improving and maintaining readability and the quality of the source code by the 
-  rule of code conventions and standards such as C# coding conventions, PEP 8,
-  linters, formatters.
-  * Optimization of database queries/procedures.
-  * Optimization of database queries/procedures.
-  * Frequent using of cloud services, AWS, Azure, Solvers etc.
-  * Monitoring applications, performance metrics, exception grouping,
-  resource usage analysis
-  * Delivering new features and patches to the customers via semantic versioning
 
 Tech stack:
 * Python, PySpark
@@ -65,12 +49,9 @@ Cloudwatch, DynamoDb
 ```
 
 ```
-Physhome - Full Time
+Physhome - Full Time                                          Aug 2017 – Dec 2018
+Software Developer
 
-Timeline:
-Software Developer                                            Aug 2017 – Dec 2018
-
-Responsibility:
 * Developing an Android application that communicates with wearable sensors and implements
 the motion tracking algorithm.
 * Developing the motion tracking algorithm based on IMU data and the application.
@@ -92,12 +73,9 @@ Tech stack:
 ```
 
 ```
-Telemed Technology - Part Time (3 days in a week)
+Telemed - Part Time (3 days in a week)                        July 2015 – Aug 2017
+Software Developer
 
-Timeline:
-Software Developer                                            July 2015 – Aug 2017
-
-Reponsibility:
 * Developing and maintaining a medical desktop software that provides lots of image
 processing tools for visualization, measurement and analysis of MR images.
 * Writing code with OOP design in principle with the MVC model.
@@ -111,8 +89,8 @@ Tech stack:
 ```
 
 ```
-Vela Technology - Volunteer Work
-Software Developer                                            Aug 2014 – Sep 2014
+Vela Technology - Volunteer Work                              Aug 2014 – Sep 2014
+Software Developer
 
 * Programming PIC microcontroller with PICKit2
 * Learning Arduino and I2C and SPI protocols.
