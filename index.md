@@ -76,7 +76,6 @@ Software Developer
 * Contributed to planning, development, algorithm, GUI, and database design.
 * Demonstrated the product to the radiologists, collecting feedback.
 
-
 Tech stack:
 * C++
 * SQLite
@@ -98,8 +97,6 @@ Software Developer
 
 ### Contact
 
-
 * Email: sagmansercan@gmail.com
 * Linkedin: https://www.linkedin.com/in/asercansagman/
 * StackOverflow: https://stackoverflow.com/users/14192125/sagmansercan
-* Twitter: https://twitter.com/sagserc
